@@ -2025,7 +2025,7 @@ select {
 .sign-in-page {
 	float: left;
 	width: 100%;
-	padding: 100px 0 20px 0;
+    padding: 90px 0 20px 0;
 }
 .signin-popup {
 	width: 870px;
@@ -2091,13 +2091,13 @@ select {
 .cmp-info {
 	float: left;
 	width: 100%;
-	padding: 70px 5px 92px 5px;
+	padding: 45px 5px 65px 5px;
 }
 .cm-logo {
 	float: left;
 	width: 100%;
 	padding-left: 45px;
-	margin-bottom: 120px;
+	margin-bottom: 55px;
 }
 .cm-logo img {
 	margin-bottom: 30px;
